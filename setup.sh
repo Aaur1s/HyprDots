@@ -1,4 +1,4 @@
-sudo cd
+#!/bin/bash
 
 # yay
 sudo pacman -Syu
